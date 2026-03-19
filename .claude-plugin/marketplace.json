@@ -1,0 +1,15 @@
+{
+  "name": "rust-coverage-analysis",
+  "owner": {
+    "name": "keruch"
+  },
+  "metadata": {
+    "description": "Analyzes Rust test coverage gaps and produces an actionable report classifying uncovered lines and branches"
+  },
+  "plugins": [
+    {
+      "name": "rust-coverage-analysis",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rust-coverage-analysis",
+  "version": "0.1.0",
+  "description": "Analyzes Rust test coverage gaps and produces an actionable report classifying uncovered lines and branches",
+  "author": {
+    "name": "keruch",
+    "url": "https://github.com/keruch"
+  },
+  "repository": "https://github.com/keruch/rust-coverage-analysis",
+  "license": "MIT"
+}
